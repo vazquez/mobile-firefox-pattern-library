@@ -16,6 +16,13 @@ Our goal with this library is to establish UI guidelines and foundation for futu
 - Typography
 - Colour Palette
 - Icons
-- Padding
+- Padding 
+
+## Screenshots
+
+Upon cloning this repo, you'll find UI components sheets for both Android & iOS.
+
+![firefox for android ui components](https://cloud.githubusercontent.com/assets/1119821/16924799/03e4b980-4cef-11e6-9ca7-1f6a4cb42b28.png)
+
 
 Brought to you by the Mobile UX Team. If you need help, feel free to reach out to [Anthony Lam](alam@mozilla.com) and [Ricardo Vazquez](ricardo@mozilla.com).
